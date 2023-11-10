@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python CrowdESL/main.py
 ```
 ## **Dataset**
-The dataset we use is as follows.
+The sources of datasets are as follows:
 
 Crossing90: https://ped.fz-juelich.de/database/doku.php?id=crossing_90
 
@@ -32,5 +32,3 @@ MouthholeLow: https://ped.fz-juelich.de/da/doku.php?id=start#mouth_hole_in_stadi
 Corner: https://ped.fz-juelich.de/da/doku.php?id=start#corner
 
 Tjunc: https://ped.fz-juelich.de/da/doku.php?id=start#t-junction
-
-We have provided two examples, Crossing90 and Crossing120, in the dataset. Once the article is accepted, we will open-source additional processed datasets.
